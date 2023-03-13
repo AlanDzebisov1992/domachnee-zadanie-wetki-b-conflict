@@ -1,0 +1,8 @@
+print("hello world")
+print("hello mama")
+
+def f1():
+    name = input()
+    print("hello," +  name)
+
+f1()
